@@ -1,4 +1,4 @@
-# Application web page
+# Appreciation web page
 ---
 
 🌟 Appreciation Web Page for Team GCOEY - A Tribute to Our Amazing Seniors 🎓
